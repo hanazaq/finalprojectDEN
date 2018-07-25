@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css?family=Acme|Gloria+Hallelujah|Indie+Flower|Lobster|Merienda|Shadows+Into+Light');
+
+*{
+	outline:none;
+font-family: 'Merienda', cursive;
+}
+
+#navbar ul li a:hover{
+	color:yellow;
+}
+
+
+#divone{
+	background-color: black;
+	height: 250px;
+}
+
+/**header *{ float:left;}**/
+
+#smileimg{
+	margin: auto;
+	padding-top: 30px;
+	display: block;
+	width:100px;
+	border-radius: 50%;
+}
+
+
+
+#title{
+	text-align: center;
+	color:white;
+}
+
+
+
+#navbar ul li {
+	list-style-type: none;
+	display:inline;
+
+}
+#navbar{
+	margin:auto;
+	width:500px;
+}
+#homehome{
+	padding-left: 50px;
+}
+#navbar ul li a{
+	text-decoration: none;
+	padding-right: 20px;
+	color:white;
+
+}
+body{margin:0px;}
+#divtwo{
+	height: 500px;
+	background-image:url("smilligKid.jpg") ;
+	background-size: cover;
+	margin:0px;
+	background-position: bottom;
+}
+#ourweb{
+	margin: 0px auto;
+	width:500px;
+	text-align: center;
+	padding-top: 300px;
+	font-size: 40px;
+}
+#divthree{
+	margin: 0px;
+	height:500px;
+}
+#divfour{
+	margin: 0px;
+	height:500px;
+
+}
+#divfive{
+	background-color: black;
+	margin: 0px;
+	height:600px;
+}
+
+#divsix{
+	margin: 0px;
+	height:200px;
+	background-color: black;
+}
+
+#socialheader  li img{
+	width:50px;
+
+}
+#socialheader  li{
+	display: inline;
+	padding-right: 20px;
+}
+#socialheader {
+	width:400px;
+	margin: auto;
+	padding-top: 30px;
+}
+#socialheader  li img:hover{
+	width:55px;
+	-webkit-filter: brightness(140%); /* Safari */
+	-moz-filter: brightness(140%); /* Firefox */
+	filter: brightness(140%);
+	-webkit-transition: all .3s ease-out; /* Safari */
+	-moz-transition: all .3s ease-out; /* Firefox */
+	transition: all .3s ease-out;
+}
+#mohimg li img{
+/*	width:400px;
+	height: 400px; */
+}
+#mohimg  li{
+	/*display: inline; */
+	/*padding-right: 10px;*/
+	overflow: hidden;
+	width:350px;
+	height: 350px;
+	float: left;
+	margin-left: 25px;
+	border: 2px solid white;
+
+}
+/*
+#mohimg li:first-child{
+	margin-left:0px;
+}*/
+
+
+#mohimg li img:hover{
+	-o-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+	-o-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-webkit-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+	o-filter:brightness(140%);
+	-moz-filter:brightness(140%);
+	-webkit-filter:brightness(140%);
+	filter:brightness(140%);
+
+}
+
+#memo{
+	text-decoration: none;
+	font-size: 40px;
+	text-align: center;
+	color:black;
+	display: block;
+	padding-top: 30px;
+	color:white;
+}
+#mohimg{
+	padding-top: 100px;
+}
+
+#mohimg li:first-child img{
+	width: 600px;
+	margin-left: -30px;
+}
+
+#mohimg li:last-child img{
+	width: 400px;
+	
+}
+
+#mohimg #mohtwo img{
+	width: 450px;
+	margin-left: -30px;
+}
+#profile{
+	width:800px;
+	height: 400px;
+	background-color:pink;
+	margin:auto;
+	margin-top: 75px;
+}
+#proimg{
+	width:300px;
+	height: 400px;
+	background-color:black; 
+	float:left;
+}
+#proimg img{
+	border-radius: 100%;
+	padding: 65px;
+}
+#promoh2{
+	width:500px;
+	height: 400px;
+	background-color:pink;
+	float:left;
+}
+#topic3{
+	padding:20px;
+
+}
+#person{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 26;
+}
+#social li{
+	display: inline;
+
+}
+#social li img{
+	width:40px;
+	padding:0px;
+
+
+}
+#social li{
+list-style-type: none;}
+#first {
+	padding-left: 20px;
+}
+#mohone{margin-top: -60px;}
+#mohtwo{margin-top: -60px;}
+#mohthree{margin-top: -60px;}

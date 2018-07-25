@@ -1,0 +1,49 @@
+#aboutusus{
+	text-align: center;
+	font-size: 32;
+}
+#aboutus{
+	text-align: center;
+	font-size: 28px;
+	color:gray;
+
+}
+#we{
+	margin-top:-10px;
+	background-color:#ffcc99;
+	height:150px; 
+}
+#we img{
+	margin:left;
+	padding-left: 50px;
+	padding-top: 10px;
+	border-radius: 100%;
+	width:100px;
+}
+#we2{
+	margin-top:-10px;
+	background-color:pink;
+	height:150px; 
+
+}
+#we2 img{
+	margin:left;
+	padding-left: 50px;
+	border-radius: 100%;
+	width:100px;
+	padding-top: 10px;
+}
+
+#dentistm{
+	background-color:white;
+	height:200px; 
+}
+.name{
+	width:300px;
+	float: right;
+	margin-right:820px;
+	margin-top: 60px;
+	font-size: 23px;
+	color:#696969;
+
+}

@@ -1,0 +1,39 @@
+#diaryone{
+	height:320px; 
+	margin: 10px;
+
+}
+
+#diaryone img{
+	width:320px;
+	margin: 20px;
+	border-radius: 10%;
+}
+#hello{
+	width:700px;
+	float:right;
+	margin-right:200px;
+	margin-top: 70px;
+
+}
+#hi{
+	padding-top:20px;
+	font-size: 32;
+	text-align: center;
+}
+#hello2{
+	width:700px;
+	margin-left: 20px;
+	float:left;
+	margin-left:50px;
+	margin-top: 70px;
+	margin-right: 60px;
+}
+#diarytwo img{
+	width:400px;
+	border-radius: 10%;
+
+}
+#diarytwo{
+	margin-bottom: 30px;
+}

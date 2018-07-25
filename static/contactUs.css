@@ -1,0 +1,77 @@
+#contacto{
+	text-align: center;
+	font-size: 32px;
+
+}
+#infor{
+	height:600px;
+
+}
+
+/******** contact us CSS ********/
+.middlediv{
+	margin: auto;
+	width:542px;
+	height:400px;
+
+	
+	}
+.middlediv h4{
+	color: #8A070A;
+	margin-left:-10px;
+	font-size:21px;
+	line-height:25px;
+	margin-bottom:15px;
+	font-weight:normal;
+	font-style:italic;
+	}
+	.middlediv input.personal{
+	width: 257px;
+    height: 34px;
+    float: left;
+    margin-right: 14px;
+	background-color:#fff;
+    color: #626262;
+    box-shadow: 0px;
+   /* border:1px solid #EBEBEB;*/
+   border-bottom:3px solid black;
+	margin-bottom:15px;
+	
+	}
+input[type="text"]{
+    padding: 10px 10px;
+    font-size: 13px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    
+}
+.middlediv input.subject{
+width:528px;
+
+}
+
+.middlediv input.textarea{
+height:130px;
+}
+
+.middlediv .sendM{
+	display: inline-block;
+    width: 173px;
+    height: 45px;
+  /*  border: 4px solid #5F0002;
+    color: #5F0002;*/
+    border: 4px solid black;
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 44px;
+    font-weight: bold;
+	text-align:center;
+	
+}
+.middlediv .sendM:hover{
+	color:white;
+	/*background-color:#5F0002 ;*/
+	background-color:black;
+}
